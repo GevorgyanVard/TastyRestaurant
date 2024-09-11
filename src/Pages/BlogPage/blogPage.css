@@ -1,0 +1,66 @@
+.blogPage{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blogPage .container .blogsContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.blogPage .blogsContainer .blog{
+    width: 250px;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid rgba(238, 238, 238, 0.617);
+}
+
+.blogPage .blogsContainer .blog h3{
+    font-size: 18px;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+}
+
+.pagination p{
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(188, 188, 188);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: rgb(255, 187, 0)
+    
+}
+
+.pagination .active{
+    color: white;
+    background-color: rgb(255, 187, 0);
+}
+
+.pagination svg{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

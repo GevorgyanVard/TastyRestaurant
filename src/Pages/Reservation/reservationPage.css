@@ -1,0 +1,232 @@
+.reservation{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+    gap: 30px;
+}
+
+.container{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.reservation .container .restMap{
+    width: 85%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.reservation .container .restMap .background{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(46, 18, 4, 0.627);
+}
+
+.restMap .background .table1{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+    height: 80px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .bar{
+    position: absolute;
+    width: 60px;
+    height: 270px;
+    top: 160px;
+    left: 20px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .door{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 0px;
+    right: 400px;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.restMap .background .table2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table3{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 200px;
+    height: 80px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table4{
+    position: absolute;
+    width: 80px;
+    height: 200px;
+    top: 160px;
+    right: 20px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table5{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table6{
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    bottom: 20px;
+    right: 200px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table7{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    bottom: 300px;
+    right: 250px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table8{
+    position: absolute;
+    width: 100px;
+    height: 280px;
+    bottom: 200px;
+    right: 600px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.restMap .background .table9{
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    bottom: 20px;
+    right: 570px;
+    background-color: rgb(165, 105, 62);
+    border: 3px solid rgb(214, 159, 110);
+    border-radius: 20px;
+}
+
+.background div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.background div p{
+    color: white;
+    border: 1px solid rgb(214, 159, 110);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0;
+}
+
+.background .bar p{
+    border: none;
+    transform: rotate(-90deg);
+    opacity: 1;
+}
+
+.background .door p{
+    border: none;
+    opacity: 1;
+}
+
+.background div:hover p{
+    opacity: 1;
+}
+
+.container form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.container form input{
+    width: 150px;
+    padding: 14px;
+    border: none;
+    box-shadow: rgba(214, 158, 110, 0.55) 0px 2px 4px, rgba(214, 158, 110, 0.55) 0px 7px 13px -3px, rgba(214, 158, 110, 0.55) 0px -3px 20px inset;
+}
+
+.container form select{
+    width: 150px;
+    height: 50px;
+    border: none;
+    font-size: 14px;
+    box-shadow: rgba(214, 158, 110, 0.55) 0px 2px 4px, rgba(214, 158, 110, 0.55) 0px 7px 13px -30px, rgba(214, 158, 110, 0.55) 0px -3px 20px inset;
+}
+
+.container .rForm button{
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: transparent;
+    border: none;
+    box-shadow: rgba(214, 158, 110, 0.55) 0px 2px 4px, rgba(214, 158, 110, 0.55) 0px 7px 13px -30px, rgba(214, 158, 110, 0.55) 0px -3px 20px inset;
+
+}
+
+.rForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.container .rForm button:hover{
+    background-color: rgb(214, 159, 110);
+    border-radius: 10px;
+    color: white;
+}

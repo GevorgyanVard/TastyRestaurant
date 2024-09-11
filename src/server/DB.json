@@ -1,0 +1,308 @@
+{
+    "mainMenu":{
+    "menuData": [
+        {
+            "id": "1",
+            "title": "Grilled Beef with potatoes",
+            "price": 29,
+            "receipt": "Meat, Potatoes, Rice, Tomatoe",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://preview.colorlib.com/theme/tasty/images/dish-3.jpg.webp"
+        },
+        {
+            "id": "2",
+            "title": "Savory Watercress Chinese Pancakes",
+            "price": 12,
+            "receipt": "Shallot, Vegetable oil, Flour",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://healthynibblesandbits.com/wp-content/uploads/2021/06/Savory-Chinese-Pancakes-FF2.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Fruit Vanilla Ice Cream",
+            "price": 15,
+            "receipt": "Strawberries, Chocolate, Vanilla, Banana",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.recipestonourish.com/wp-content/uploads/2011/08/Honey-Vanilla-Ice-Cream-Recipes-to-Nourish-2-480x480.jpg"
+        },
+        {
+            "id": "4",
+            "title": "Soup With Vegetables And Meat",
+            "price": 18,
+            "receipt": "Meat, Potatoes, Carrot, Tomatoe",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Vegetable-Beef-Soup-bowl.jpg"
+        },
+        {
+            "id": "5",
+            "title": "Asian Hoisin Pork",
+            "price": 23,
+            "receipt": "Hoisin sauce, Vegetable oil, Honey, Carrot",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://static01.nyt.com/images/2021/04/13/dining/ssp-glazed-pork-bowl/ssp-glazed-pork-bowl-articleLarge.jpg"
+        },
+        {
+            "id": "6",
+            "title": "Udon Noodles With Vegetables",
+            "price": 20,
+            "receipt": "Eggplant, Red onion, Shiitake mushrooms, Bell pepper",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://familystylefood.com/wp-content/uploads/2020/09/udon-ratatouille.jpg"
+        },
+        {
+            "id": "7",
+            "title": "Spicy Fried Rice & Bacon",
+            "price": 14,
+            "receipt": "Bacon, Rice, Avocado, Pepper",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://whatsgabycooking.com/wp-content/uploads/2024/02/SpicyBaconFriedRice_7.jpg"
+        },
+        {
+            "id": "8",
+            "title": "Baked Lobster With A Garnish",
+            "price": 140,
+            "receipt": "Lobster, Garlic powder, Lemon, Parsley",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://template65055.motopreview.com/mt-demo/65000/65055/mt-content/uploads/2017/10/mt-1199_products_vip01-4.jpg"
+        },
+        {
+            "id": "9",
+            "title": "Mango Chili Chutney",
+            "price": 40,
+            "receipt": "Mango,  Vinegar, Cumin seeds, Garlic",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://naturallynidhi.com/wp-content/uploads/2020/07/Mango-Chili-Chutney-4.jpg"
+        },
+        {
+            "id": "10",
+            "title": "Octopus with Vegetables",
+            "price": 120,
+            "receipt": "Octopus tentacles, Carrots, Tomato, White wine",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.sympossio.gr/wordpress/wp-content/uploads/2013/04/sympossio_recipe_2013_2.jpg"
+        }
+    ],
+    "desertData": [
+        {
+            "id": "11",
+            "title": "Tiramisu",
+            "price": 50,
+            "receipt": "Egg, Heavy cream, Mascarpone, Sugar",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-square640.jpg"
+        },
+        {
+            "id": "12",
+            "title": "Chocolate Cream",
+            "price": 10,
+            "receipt": "Egg, Milk, Dark Chocolate, Cornstrach",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.abakingjourney.com/wp-content/uploads/2020/05/Chocolate-Pastry-Cream-Feature-1.jpg"
+        },
+        {
+            "id": "13",
+            "title": "Pizza Pie",
+            "price": 42,
+            "receipt": "Cinnamon, Pumpkin, Nutmeg, Vanilla",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.emilieeats.com/wp-content/uploads/2016/10/pumpkin-pie-dessert-pizza-10-square.jpg"
+        },
+        {
+            "id": "14",
+            "title": "Sicilian Ricotta",
+            "price": 18,
+            "receipt": "Cinnamon, Egg, Ricotta, Dark Chocolate",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.marcellinaincucina.com/wp-content/uploads/2021/11/sicilian-cheesecake-1-4.jpg"
+        },
+        {
+            "id": "15",
+            "title": "Mango Float",
+            "price": 23,
+            "receipt": "Mango, Biscoff cookies, Heavy cream",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://bakewithzoha.com/wp-content/uploads/2024/05/mango-float-featured.jpg"
+        },
+        {
+            "id": "16",
+            "title": "Lemon Blueberry Cheesecake Bars",
+            "price": 53,
+            "receipt": "Cream Cheese, Lemon, Blueberries, Egg",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://vintagekitchennotes.com/wp-content/uploads/2023/07/Blueberry-cheesecake-bars-on-a-white-platejpg.jpeg"
+        },
+        {
+            "id": "17",
+            "title": "Oatmeal-Peanut Butter Trail Bars",
+            "price": 26,
+            "receipt": "Almonds, Cashews, Ground flaxseed, Chocolate chips",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.veggieinspired.com/wp-content/uploads/2023/02/peanut-butter-oatmeal-bars-featuredstack.jpg"
+        },
+        {
+            "id": "18",
+            "title": "Maple-Walnut Roasted Apples",
+            "price": 80,
+            "receipt": "Apples, Maple syrup, Cinnamon, Lemon juice",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://dmlxzvnzyohme.cloudfront.net/2015/10/maple-walnut-baked-apples640x360.jpg"
+        },
+        {
+            "id": "19",
+            "title": "Nanaimo bars, Canada",
+            "price": 60,
+            "receipt": "Graham cracker, Coconut crust, Dark chocolate, Egg",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://dynamic-media.tacdn.com/media/attractions-content--1x-1/13/66/bf/de.jpg?f=webp&w=1000&h=700"
+        },
+        {
+            "id": "20",
+            "title": "Strawberry-Banana Delight",
+            "price": 30,
+            "receipt": "Strawberry, Banana, Vanilla, Nut butter",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.simplejoy.com/wp-content/uploads/2018/05/strawberry_banana_fluff_recipe_image.jpg"
+        }
+    ],
+    "drinksData": [
+        {
+            "id": "21",
+            "title": "Lemon Juice",
+            "price": 5,
+            "receipt": "Lemon",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://preview.colorlib.com/theme/tasty/images/drink-1.jpg.webp"
+        },
+        {
+            "id": "22",
+            "title": "Beer",
+            "price": 6,
+            "receipt": "",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://c.ndtvimg.com/2022-07/3hkk8l8_beer_625x300_25_July_22.jpg?im=FaceCrop,algorithm=dnn,width=384,height=384"
+        },
+        {
+            "id": "23",
+            "title": "Guava Juice",
+            "price": 12,
+            "receipt": "Red Guava",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://tasteofnusa.com/wp-content/uploads/2024/02/guava-juice-2.jpg"
+        },
+        {
+            "id": "24",
+            "title": "Mango Juice",
+            "price": 5,
+            "receipt": "Mango",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.crazyvegankitchen.com/wp-content/uploads/2023/06/mango-juice-recipe.jpg"
+        },
+        {
+            "id": "25",
+            "title": "Sprite",
+            "price": 3,
+            "receipt": "",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://miro.medium.com/v2/resize:fit:1400/1*NHdFxj1u-xQ_gAGk1Aw7mA.jpeg"
+        },
+        {
+            "id": "26",
+            "title": "Apple Juice",
+            "price": 5,
+            "receipt": "Apple",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://8thwondertea.com/cdn/shop/articles/custom_resized_175073ac-3882-473d-9cc7-b98eebd67d13.jpg?v=1678563564"
+        },
+        {
+            "id": "27",
+            "title": "Cola",
+            "price": 3,
+            "receipt": "",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://i.brecorder.com/primary/2024/02/13200028099a37e.jpg"
+        },
+        {
+            "id": "28",
+            "title": "Strawberry Juice",
+            "price": 8,
+            "receipt": "Strawberry",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/09/Strawberry-Juice-Recipe-500x500.jpg"
+        },
+        {
+            "id": "29",
+            "title": "Red Wine",
+            "price": 25,
+            "receipt": "Grapes",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://www.virginwines.co.uk/hub/wp-content/uploads/Red_Wine_Shot-70.jpg"
+        },
+        {
+            "id": "30",
+            "title": "Orange Juice",
+            "price": 5,
+            "receipt": "Orange",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "images": "https://i0.wp.com/thepiratesbay.ae/wp-content/uploads/2021/08/orange.jpg?fit=365%2C339&ssl=1"
+        }
+    ],
+    "guestsData": [
+        {
+            "id": "31",
+            "name": "Dennis Green",
+            "city": "Guests from Italy",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.8,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_1.jpg.webp"
+        },
+        {
+            "id": "32",
+            "name": "Lucas Brassel",
+            "city": "Guests from France",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.5,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_2.jpg.webp"
+        },
+        {
+            "id": "33",
+            "name": "Arsen Gasparyan",
+            "city": "Guests from Armenia",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.7,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_3.jpg.webp"
+        },
+        {
+            "id": "34",
+            "name": "Dennis Green",
+            "city": "Guests from Italy",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.8,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_1.jpg.webp"
+        },
+        {
+            "id": "35",
+            "name": "Lucas Brassel",
+            "city": "Guests from France",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.5,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_2.jpg.webp"
+        },
+        {
+            "id": "36",
+            "name": "Arsen Gasparyan",
+            "city": "Guests from Armenia",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.7,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_3.jpg.webp"
+        },
+        {
+            "id": "37",
+            "name": "Arsen Gasparyan",
+            "city": "Guests from Armenia",
+            "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+            "rating": 4.9,
+            "image": "https://preview.colorlib.com/theme/tasty/images/person_1.jpg.webp"
+        }
+    ]
+    }
+}

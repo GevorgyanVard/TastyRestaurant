@@ -1,0 +1,45 @@
+.aboutUs{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.ourChef{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.ourChef h1{
+    font-size: 40px;
+}
+
+.chefs{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.chefs .chef{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 5px;
+}
+
+.chef .chefsImg{
+    width: 100%;
+    height: 370px;
+    overflow: hidden;
+}
+
+.chef .chefsImg img{
+    width: 100%;
+}
+

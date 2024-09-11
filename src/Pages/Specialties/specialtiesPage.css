@@ -1,0 +1,20 @@
+.ourSpecials{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.ourSpecials .specialties{
+    padding: 100px 0;
+    height: 220vh;
+}
+
+.specialties h1{
+    font-size: 30px;
+    font-weight: 500;
+}
+.ourSpecials .specialties .container .special{
+    position: absolute;
+    top: 80px;
+}
+

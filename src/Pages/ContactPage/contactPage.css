@@ -1,0 +1,94 @@
+.contactPage{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+.contactPage .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.contactPage .contact{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: relative;
+    top: -60px;
+    gap: 20px;
+}
+
+.contact .information{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.information div{
+    border: 1px solid rgb(193, 193, 193);
+    padding: 25px 15px;
+    color: rgb(195, 195, 195);
+    font-size: 14px;
+}
+
+.information div span{
+    color: rgb(255, 187, 0);
+}
+
+.contactPage .container .form{
+    width: 45%;
+}
+
+.contactPage .form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.contactPage .form div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    
+}
+
+.contactPage .form input{
+    padding: 15px;
+    width: 100%;
+    border: 1px solid rgb(202, 202, 202);
+    box-shadow: none;
+    
+}
+
+.form label{
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: rgb(158, 158, 158);
+}
+.form textarea{
+    height: 230px;
+    border: 1px solid rgb(202, 202, 202);
+    padding: 10px;
+}
+
+.contactPage .form button{
+    padding: 20px;
+    border: none;
+    background-color: rgb(255, 187, 0);
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+    width: 180px;
+    display: flex;
+    align-self: start;
+    justify-content: center;
+}

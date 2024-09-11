@@ -1,0 +1,273 @@
+.eachBlog{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+.eachBlog .container{
+    width: 60%;
+    display: flex;  
+    flex-direction: row;  
+    align-items: start;
+    gap: 20px;
+    
+}
+
+.eachBlog .container .posts{
+    width: 65%;
+}
+
+
+
+.posts .titleH1{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.posts .blogImg{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 20px 0
+}
+
+.lstt{
+    text-transform: uppercase;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+    font-size: 12px;
+}
+
+.lstt span{
+    border: 1px solid rgb(181, 181, 181);
+    border-radius: 6px;
+    padding: 5px 8px;
+    cursor: pointer;
+
+}
+
+.lstt span:hover{
+    border: 1px solid black;
+}
+
+.aboutAuthor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 40px;
+    background-color: rgb(244, 244, 244);
+    padding: 40px 40px;
+    margin-bottom: 70px;
+}
+
+.aboutAuthor img{
+    width: 130px;
+}
+
+.aboutAuthor .infoA{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.infoA h1{
+    font-weight: 400;
+    font-size: 22px
+}
+
+.infoA p{
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+    color: gray;
+}
+
+.comment{
+    font-size: 28px;
+    font-weight: 400;
+    padding: 40px 0;
+    color: rgb(78, 78, 78);
+}
+
+
+.comms{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10;
+}
+
+.comms .coms{
+    width: 90%;
+    display: flex;
+    gap: 15px;
+    padding: 40px 0;
+
+}
+
+.coms img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.coms span{
+    color: rgb(194, 194, 194);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+
+.coms .infoA {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.coms .infoA button{
+    width: 65px;
+    padding: 7px;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 6px;
+}
+
+.coms .infoA button:hover{
+    background-color: black;
+    color: white;
+}
+
+.coms.c1{
+    margin-left: 30px;
+}
+
+
+.coms.c2{
+    margin-left: 60px;
+}
+
+
+.coms.c3{
+    margin-left: 90px;
+}
+
+.posts .form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 50px;
+    background-color: rgba(220, 220, 220, 0.151);
+    
+}
+
+.posts .form div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    
+}
+
+.posts .form input{
+    padding: 15px;
+    width: 100%;
+    border: 1px solid rgb(202, 202, 202);
+    box-shadow: none;
+    
+}
+
+.form label{
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: rgb(158, 158, 158);
+}
+.form textarea{
+    height: 230px;
+    border: 1px solid rgb(202, 202, 202);
+}
+
+.posts .form button{
+    padding: 20px;
+    border: none;
+    background-color: rgb(255, 187, 0);
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+    width: 180px;
+    display: flex;
+    align-self: start;
+    justify-content: center;
+}
+
+.eachBlog .container .infos{
+    width: 35%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.infos input{
+    padding: 13px;
+    width: 80%;
+}
+
+.infos .categories{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 80px 0;
+    gap: 10px;
+}
+
+.infos h3{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.infos .categories .categlist{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 5px;
+}
+
+.categlist .cList{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted rgb(201, 201, 201);
+    padding: 5px 0;
+}
+
+.cList p{
+    color: rgb(255, 187, 0);
+}
+
+.cList span{
+    color: rgb(220, 218, 218);
+    font-size: 14px;
+}
+
+.infos .recpies{
+    margin-bottom: 60px;
+}
+
+.infos .paragraph{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
